@@ -1,4 +1,4 @@
-Predicción de Reingresos Hospitalarios con R y Power BI
+# Predicción de Reingresos Hospitalarios con R y Power BI
 Proyecto completo de análisis de datos hospitalarios ficticios. Incluye limpieza y preparación de datos, análisis descriptivo, clusterización de pacientes mediante k-means, modelos predictivos de reingreso a 30 días (regresión logística y árbol de decisión) y un dashboard interactivo en Power BI para la interpretación ejecutiva de resultados. El objetivo es identificar perfiles de riesgo y apoyar la toma de decisiones en la gestión asistencial.
 
 Contenido del proyecto
